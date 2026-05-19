@@ -8,3 +8,4 @@
 ### TODOs
 - [ ] merge [dirkarnez/iframe-inject](https://github.com/dirkarnez/iframe-inject)
 - [ ] merge [dirkarnez/iframe-auto-height](https://github.com/dirkarnez/iframe-auto-height)
+- [ ] merge [dirkarnez/iframe-communication](https://github.com/dirkarnez/iframe-communication)
